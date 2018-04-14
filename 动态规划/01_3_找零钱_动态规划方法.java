@@ -16,8 +16,8 @@ public class Exchange {
         }
         int[][] dp = new int[n][aim + 1];
         // 初始化第一行的值
-        for (int i = 1; i < aim + 1; i++) {
-            if (aim % penny[0] == 0) {
+        for (int i = 0; i < aim + 1; i++) {
+            if (i % penny[0] == 0) {
                 dp[0][i] = 1;
             }
         }
@@ -27,7 +27,7 @@ public class Exchange {
         }
         
         for (int i = 1; i < n; i++) {
-            for (int j = 0; j < aim + 1; j++) {
+            for (int j = 1; j < aim + 1; j++) {
                 for (int k = 0; j - k * penny[i] >= 0; k++) {
                     dp[i][j] += dp[i - 1][j - k * penny[i]];
                 }
