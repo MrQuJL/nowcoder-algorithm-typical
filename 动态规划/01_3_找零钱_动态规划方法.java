@@ -14,26 +14,25 @@ public class Exchange {
         if (penny == null || penny.length == 0 || aim < 0) {
             return 0;
         }
-        int[][] map = new int[penny.length + 1][aim + 1];
-        return process1(penny, 0, aim, map);
-    }
-    
-    public int process1(int[] arr, int index, int aim, int[][] map) {
-        int res = 0;
-        if (index == arr.length) {
-            res = aim == 0 ? 1 : 0;
-        } else {
-            for (int i = 0; i * arr[index] <= aim; i++) {
-                int mapValue = 0;
-                if (mapValue != 0) {
-                    res += mapValue == -1 ? 0 : mapValue;
-                } else {
-                    res += process1(arr, index + 1, aim - i * arr[index], map);
+        int[][] dp = new int[n][aim + 1];
+        // 初始化第一行的值
+        for (int i = 1; i < aim + 1; i++) {
+            if (aim % penny[0] == 0) {
+                dp[0][i] = 1;
+            }
+        }
+        // 初始化第一列的值
+        for (int i = 0; i < n; i++) {
+            dp[i][0] = 1;
+        }
+        
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < aim + 1; j++) {
+                for (int k = 0; j - k * penny[i] >= 0; k++) {
+                    dp[i][j] += dp[i - 1][j - k * penny[i]];
                 }
             }
         }
-        map[index][aim] = res == 0 ? -1 : res;
-        return res;
+        return dp[n - 1][aim];
     }
-    
 }
