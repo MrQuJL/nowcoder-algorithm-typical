@@ -20,7 +20,7 @@
 
 ## 大数据
 
-## [动态规划](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/README.md "动态规划")
+## [动态规划](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/动态规划/README.md "动态规划")
 
 ## 智力题
 
