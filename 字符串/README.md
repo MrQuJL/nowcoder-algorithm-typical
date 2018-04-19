@@ -6,9 +6,7 @@
 
 3. [判断A和B是否互为旋转词](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/03_旋转词.java "判断A和B是否互为旋转词")
 
-
-
-
+4. [在句子的单词间做逆序](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/04_句子的逆序.java "在句子的单词间做逆序")
 
 
 
