@@ -8,6 +8,8 @@
 
 4. [在句子的单词间做逆序](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/04_句子的逆序.java "在句子的单词间做逆序")
 
+5. [左旋字符串](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/05_字符串旋转.java "左旋字符串")
+
 
 
 
