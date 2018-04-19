@@ -10,6 +10,10 @@
 
 5. [左旋字符串](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/05_字符串旋转.java "左旋字符串")
 
+6. [拼接最小字典序](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/06_拼接最小字典序.java "拼接最小字典序")
+
+
+
 
 
 
