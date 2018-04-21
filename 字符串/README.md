@@ -14,6 +14,8 @@
 
 7. [合法括号序列](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/07_合法括号序列.java "合法括号序列")
 
+8. [KMP](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/KMP.java "KMP")
+
 
 
 
