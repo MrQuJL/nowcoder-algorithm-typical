@@ -10,13 +10,10 @@
 
 5. [完全二叉树计数](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二分搜索/05_完全二叉树计数.java"完全二叉树计数")
 
-
+6. [快速N次方](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二分搜索/06_快速N次方.java"快速N次方")
 
 ps:二分搜索重要提醒：
 mid = (left + right) / 2;
 中 left + right 可能溢出，所以，更安全的写法是：
 mid = left + (right - left) / 2;
-
-
-
 
