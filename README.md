@@ -24,7 +24,7 @@
 
 ## 链表
 
-## 二分搜索
+## [二分搜索](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二分搜索/README.md "二分搜索")
 
 ## 二叉树
 
