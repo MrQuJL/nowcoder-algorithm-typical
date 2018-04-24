@@ -30,7 +30,7 @@
 
 ## 位运算
 
-## 排列组合
+## [排列组合](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/排列组合/README.md "排列组合")
 
 ## 概率
 
