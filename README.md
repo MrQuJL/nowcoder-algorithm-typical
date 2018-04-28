@@ -6,7 +6,7 @@
 
 ## [队列和栈](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/队列和栈/README.md "队列和栈")
 
-## 链表
+## [链表](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/README.md "链表")
 
 ## [二分搜索](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二分搜索/README.md "二分搜索")
 
