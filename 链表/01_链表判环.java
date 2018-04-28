@@ -18,7 +18,7 @@ public class ChkLoop {
         // 定义两个快慢指针
         ListNode pSlow = head;
         ListNode pFast = head;
-        while (pSlow != null && pFast.next != null) {
+        while (pFast != null && pFast.next != null) {
             pSlow = pSlow.next;
             pFast = pFast.next.next;
             if (pFast == pSlow) { // 有环
@@ -26,17 +26,15 @@ public class ChkLoop {
             }
         }
         // 无环
-        if (pSlow == null || pFast.next == null) {
+        if (pFast == null || pFast.next == null) {
             return -1;
         }
         // 有环
-        
-        
-        
-        
-        
-        
-        
-        
+        pFast = head;
+        while (pFast != pSlow) {
+            pFast = pFast.next;
+            pSlow = pSlow.next;
+        }
+        return pFast.val;
     }
 }
