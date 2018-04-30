@@ -10,7 +10,7 @@
 
 ## [二分搜索](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二分搜索/README.md "二分搜索")
 
-## 二叉树
+## [二叉树](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/README.md "二叉树")
 
 ## 位运算
 
