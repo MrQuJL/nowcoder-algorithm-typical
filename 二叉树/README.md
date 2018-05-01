@@ -8,6 +8,7 @@
 
 4. [二叉树的序列化](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/04_二叉树的序列化.txt "二叉树的序列化")
 
+5. [完全二叉树的判断](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/05_完全二叉树的判断.txt "完全二叉树的判断")
 
 
 
