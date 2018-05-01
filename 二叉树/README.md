@@ -6,6 +6,10 @@
 
 3. [非递归二叉树的序列打印](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/03_非递归二叉树的序列打印.txt "非递归二叉树的序列打印")
 
+4. [二叉树的序列化](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/04_二叉树的序列化.txt "二叉树的序列化")
+
+
+
 
 
 
