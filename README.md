@@ -12,7 +12,7 @@
 
 ## [二叉树](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/README.md "二叉树")
 
-## 位运算
+## [位运算](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/位运算/README.md "位运算")
 
 ## [排列组合](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/排列组合/README.md "排列组合")
 
