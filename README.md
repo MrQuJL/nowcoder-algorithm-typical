@@ -18,7 +18,7 @@
 
 ## 概率
 
-## 大数据
+## [大数据](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/大数据/README.md "大数据")
 
 ## [动态规划](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/动态规划/README.md "动态规划")
 
