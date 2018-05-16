@@ -6,8 +6,7 @@
 
 3. [栈的反转](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/队列和栈/03_栈的反转.java "栈的反转")
 
-
-
+4. [栈的逆序](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/队列和栈/04_栈的逆序.java "栈的逆序")
 
 
 
