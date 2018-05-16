@@ -8,5 +8,15 @@
 
 4. [栈的逆序](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/队列和栈/04_栈的逆序.java "栈的逆序")
 
+5. [双栈排序](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/队列和栈/05_双栈排序.java "双栈排序")
+
+
+
+
+
+
+
+
+
 
 
