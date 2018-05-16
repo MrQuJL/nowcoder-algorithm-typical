@@ -16,6 +16,7 @@
 
 8. [KMP](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/KMP.java "KMP")
 
+9. [最长无重复字符子串的长度](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/字符串/08_最长无重复字符子串的长度.java "最长无重复字符子串的长度")
 
 
 
