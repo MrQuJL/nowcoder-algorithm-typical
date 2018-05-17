@@ -11,7 +11,9 @@ public class OddAppearance {
      * 思路：
      * 一个数异或它自己结果为0,
      * 数组中所有的数从头到尾异或一遍就可以获得那个出现了奇数次的数
-     */
+     * n与0异或结果为n
+	 * n与n异或结果为0
+	 */
     public int findOdd(int[] A, int n) {
         int res = A[0];
         for (int i = 1; i < n; i++) {
