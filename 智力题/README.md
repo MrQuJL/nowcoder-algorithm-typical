@@ -8,6 +8,8 @@
 
 4. [矩阵行走](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/智力题/04_矩阵行走.java "矩阵行走")
 
+5. [数组清空](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/智力题/05_数组清空.java "数组清空")
+
 
 
 
