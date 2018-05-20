@@ -6,6 +6,8 @@
 
 3. [跳格子](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/智力题/03_跳格子.java "跳格子")
 
+4. [矩阵行走](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/智力题/04_矩阵行走.java "矩阵行走")
+
 
 
 
