@@ -4,6 +4,7 @@
 
 2. [访问单个节点的删除](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/02_访问单个节点的删除.java "访问单个节点的删除")
 
+3. [链表的分化](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/03_链表的分化.java "链表的分化")
 
 
 
