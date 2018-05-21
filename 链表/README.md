@@ -6,7 +6,7 @@
 
 3. [链表的分化](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/03_链表的分化.java "链表的分化")
 
-
+4. [打印两个链表的公共值](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/04_打印两个链表的公共值.java "打印两个链表的公共值")
 
 
 
