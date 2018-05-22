@@ -10,6 +10,7 @@
 
 5. [链表的k逆序](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/05_链表的k逆序.java "链表的k逆序")
 
+6. [链表指定值清除](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/06_链表指定值清除.java "链表指定值清除")
 
 
 
