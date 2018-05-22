@@ -12,6 +12,7 @@
 
 6. [链表指定值清除](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/06_链表指定值清除.java "链表指定值清除")
 
+7. [链表的回文结构](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/07_链表的回文结构.java "链表的回文结构")
 
 
 
