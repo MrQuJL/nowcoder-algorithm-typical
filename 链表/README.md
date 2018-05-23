@@ -20,6 +20,7 @@
 
 10. [无环单链表相交](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/10_无环单链表相交.java "无环单链表相交")
 
+11. [有环单链表相交](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/11_有环单链表相交.java "有环单链表相交")
 
 
 
