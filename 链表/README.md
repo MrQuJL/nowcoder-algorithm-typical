@@ -14,6 +14,8 @@
 
 7. [链表的回文结构](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/07_链表的回文结构.java "链表的回文结构")
 
+8. [复杂链表的复制](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/链表/08_复杂链表的复制.java "复杂链表的复制")
+
 
 
 
