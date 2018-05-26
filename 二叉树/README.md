@@ -14,6 +14,9 @@
 
 7. [折痕练习](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/07_折痕练习.java "折痕练习")
 
+8. [寻找错误结点](https://github.com/MrQuJL/nowcoder-algorithm-typical/blob/master/二叉树/08_寻找错误结点.java "寻找错误结点")
+
+
 
 
 
